@@ -157,6 +157,11 @@ No known bugs at this time.
 Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
 
+Mahmoud Samy - [Github](https://github.com/msamy250)
+
+
 Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
+
+Handle APIS to GET, POST, PUT, DELETE data
